@@ -3,7 +3,7 @@ from tkinter import *
 from tkinter import messagebox
 
 root = Tk()
-root.title = "Ziamah"
+root.title = "Address Book"
 root.geometry("350x450")
 
 global first_name_update
